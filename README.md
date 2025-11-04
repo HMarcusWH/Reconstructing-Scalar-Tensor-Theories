@@ -9,7 +9,7 @@ Reconstructing Scalar-Tensor Gravity with DESI DR2 to Address Cosmological Tensi
 ## Abstract
 
 Recent cosmological observations, including data from DESI DR2, the Pantheon+ supernova compilation, Cosmic Microwave Background (CMB) measurements, and growth-rate (RSD) data, 
-highlight significant tensions within the $\Lambda$CDM paradigm. We demonstrate a key difference in how these data impact the Hubble tension based on the assumed gravitational framework. 
+highlight significant tensions within the ΛCDM paradigm. We demonstrate a key difference in how these data impact the Hubble tension based on the assumed gravitational framework. 
 When analyzed within General Relativity (GR), the DESI-preferred expansion history favors a lower Hubble constant, $H_0$, thereby \textit{worsening} the tension with local measurements. 
 In striking contrast, when we allow for additional gravitational degrees of freedom within a Modified Gravity (MG) framework, the tension is significantly alleviated, 
 shifting the inferred $H_0$ to $70.6 \pm 1.7 \mathrm{ km s}^{-1} \mathrm{Mpc}^{-1}$.
