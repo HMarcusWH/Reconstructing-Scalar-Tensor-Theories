@@ -13,8 +13,12 @@ Recent cosmological data, including DESI DR2, highlight significant tensions wit
 
 ## Citing the paper 
 If you use any of the above codes or the figures in a published work please cite the following paper:
-<br>*Reconstructing Scalar-Tensor Gravity with DESI DR2 to Address Cosmological Tensions*
+<br>*Addressing the DESI DR2 Phantom-Crossing Anomaly and Enhanced $H_0$ Tension with Reconstructed Scalar-Tensor Gravity*
 <br>Dimitrios Efstratiou, Evangelos Achilleas Paraskevas, Leandros Perivolaropoulos 
+
+<https://arxiv.org/abs/2511.04610>
+
+<https://inspirehep.net/literature/3080493>
 
 Any further questions/comments are welcome.
 
